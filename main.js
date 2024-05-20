@@ -1,6 +1,3 @@
-import '../scss/styles.scss'
-import '@fortawesome/fontawesome-free/js/all.js';
-
 // Funzione per aprire o chiudere un elemento
 function toggleElement(elementId) {
     var body = document.getElementById('page');
