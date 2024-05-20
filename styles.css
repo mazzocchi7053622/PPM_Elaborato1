@@ -264,6 +264,8 @@ img {
 	text-align: center;
 }
 .main_title {
+	margin-top: 0;
+    	margin-bottom: 0.5rem;
 	color: firebrick;
 	font-weight: 700;
 	font-size: 4rem;
